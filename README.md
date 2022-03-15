@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Salbiyath, just call me Isal
 - 👀 I’m interested in web development
-- 🌱 I’m currently work with Laravel and Vue Js
+- 🌱 I’m currently work with Laravel
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me : salbiyat@gmail.com
 
