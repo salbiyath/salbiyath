@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Salbiyath, just call me Isal
-- 👀 I’m interested in web development
-- 🌱 I’m currently work with Laravel
-- 💞️ I’m looking to collaborate on web development project
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently work as Backend Developer 
+- 💞️ I’m looking to collaborate on Web Development Project
 - 📫 How to reach me : salbiyat@gmail.com
 
 <!---
