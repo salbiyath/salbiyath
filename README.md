@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Salbiyath, just call me Isal
+- 👋 Hi, I’m Muhammad Salbiyath, just call me Salbi
 - 🌱 I’m currently work as Backend Developer 
 - 💞️ I’m looking to collaborate on Project
 - 📫 How to reach me : salbiyath@gmail.com
